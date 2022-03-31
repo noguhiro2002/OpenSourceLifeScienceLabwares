@@ -1,2 +1,2 @@
 # OpenSourceLifeScienceLabWares
-Open source hardwares of life science lab wares. you can create them with 3D-printer and LaserCutter
+Open source hardware of life science labwares. you can create them with 3D-printer and LaserCutter
