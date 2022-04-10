@@ -1,4 +1,4 @@
-# Open Source Life Science Lab Wares
+# Open Source Life Science Labwares
 Open source hardware of life science labwares. you can create them with 3D-printer and LaserCutter
 
 ## 1_BioRad_OpenColumnHolder_SBS_LaserCutter
