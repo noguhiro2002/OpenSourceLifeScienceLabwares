@@ -35,6 +35,6 @@ https://www.youtube.com/watch?v=yI8rSLv2duE
 ![Picture](https://github.com/noguhiro2002/OpenSourceLifeScienceLabWares/blob/main/3_PCRTubeHolder_SBS_LaserCutter/2.5mm/design.PNG)
 
 ### Movie (YouTube)
-[![Movie](http://img.youtube.com/vi/Ynt3W2GdM3U/0.jpg)](https://youtu.be/yI8rSLv2duE)
+[![Movie](http://img.youtube.com/vi/Ynt3W2GdM3U/0.jpg)](https://youtu.be/Ynt3W2GdM3U)
 
-https://youtu.be/yI8rSLv2duE
+https://youtu.be/Ynt3W2GdM3U
