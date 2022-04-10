@@ -31,7 +31,7 @@ Open source hardware of life science labwares. you can create them with 3D-print
 - Required Dig. Fab. Machine: Laser Cutter
 - Required Material: 2.5mm MDF or 2.5mm Plexi
 
-![Picture](https://github.com/noguhiro2002/OpenSourceLifeScienceLabWares/blob/main/3_PCRTubeHolder_SBS_LaserCutter/design.PNG)
+![Picture](https://github.com/noguhiro2002/OpenSourceLifeScienceLabWares/blob/main/3_PCRTubeHolder_SBS_LaserCutter/2.5mm/design.PNG)
 
 ### Movie (YouTube)
 [![Movie](http://img.youtube.com/vi/Ynt3W2GdM3U/0.jpg)](https://youtu.be/yI8rSLv2duE)
