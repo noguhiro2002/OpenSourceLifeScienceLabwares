@@ -14,13 +14,14 @@ Open source hardware of life science labwares. you can create them with 3D-print
 - For Manual Experiments.
 - Layout is based [OpenTrons labware](https://labware.opentrons.com/)
 - Required Dig. Fab. Machine: Laser Cutter
-- Required Material: 2.5mm MDF or 2.5mm Plexi
+- Required Material: 2.5mm MDF/Plexi or 3.0mm MDF/Plexi
 
 ![Picture](https://github.com/noguhiro2002/OpenSourceLifeScienceLabWares/blob/main/2_UniversalTwoWayHolder_SBS_LaserCutter/2.5mm/design.PNG)
 
 ### Movie (YouTube)
 [![Movie](http://img.youtube.com/vi/yI8rSLv2duE/0.jpg)](https://www.youtube.com/watch?v=yI8rSLv2duE)
 
+https://www.youtube.com/watch?v=yI8rSLv2duE
 
 
 ## 3_PCRTubeHolder_SBS_LaserCutter
@@ -29,10 +30,11 @@ Open source hardware of life science labwares. you can create them with 3D-print
 - For Manual Experiments.
 - Layout is based [OpenTrons labware](https://labware.opentrons.com/)
 - Required Dig. Fab. Machine: Laser Cutter
-- Required Material: 2.5mm MDF or 2.5mm Plexi
+- Required Material: 2.5mm MDF/Plexi or 3.0mm MDF/Plexi
 
 ![Picture](https://github.com/noguhiro2002/OpenSourceLifeScienceLabWares/blob/main/3_PCRTubeHolder_SBS_LaserCutter/2.5mm/design.PNG)
 
 ### Movie (YouTube)
 [![Movie](http://img.youtube.com/vi/Ynt3W2GdM3U/0.jpg)](https://youtu.be/yI8rSLv2duE)
 
+https://youtu.be/yI8rSLv2duE
